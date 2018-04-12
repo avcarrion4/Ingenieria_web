@@ -1,0 +1,80 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #f1f1f1;
+	font-family: arial;
+}
+
+header.cabecera, nav, footer, main, section{
+	background: #96b312;
+	color: #000;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+
+.cabecera figure{
+	width: 20%;
+	display: inline-block;
+	padding: 1em 2em;
+}
+
+.cabecera form{
+	width: 70%;
+	display: inline-block;
+	text-align: right;
+	
+}
+
+.cabecera
+footer h6{
+	padding: 2em 0;
+	text-align: center;
+}
+
+main{
+	width: 70%;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 3em;
+}
+aside{
+	width: 25%;
+	display: inline-block;
+	vertical-align: top;
+	background: #96b326;
+}
+main article{
+	padding: 1em;
+}
+
+section .gal{
+	display: inline-block;
+	background: #96b312;
+}
+
+section .prod{
+	display: inline-block;
+	background: #96b312;
+}
+.prod h3{
+	display: inline-block;
+}
+
+section{
+	text-align: center;
+}
+.m{
+	text-align: center;
+}
+.m article{
+	display: inline-block;
+	
+}
+a, footer, a{
+	text-align: center;
+}
